@@ -1,7 +1,7 @@
 # Chess Engine
 
 KNOWN ISSUES:
-- "Picking up" and "putting down" a piece on the same square during your turn; will cause game to crash.
+- "Picking up" and "putting down" a piece on the same square during your turn will cause game to crash.
 
 Built on [python-chess](https://python-chess.readthedocs.io/en/latest/index.html).
 
