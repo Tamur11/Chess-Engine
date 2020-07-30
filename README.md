@@ -7,6 +7,6 @@ Built on the [python-chess](https://python-chess.readthedocs.io/en/latest/index.
 
 Chess evaluation inspired by [Stockfish Evaluation Guide](https://hxim.github.io/Stockfish-Evaluation-Guide/) and [Stockfish Github](https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp).
 
-Rule-based decision making based on [Alphabeta pruning](https://www.chessprogramming.org/Alpha-Beta) and [Quiescene search documentation](https://www.chessprogramming.org/Quiescence_Search).
+Rule-based decision making based on [Alpha-Beta Pruning](https://www.chessprogramming.org/Alpha-Beta) and [Quiescence Search](https://www.chessprogramming.org/Quiescence_Search)  documentation.
 
 Uses [Cerebellum polyglot books](https://zipproth.de/Brainfish/cerebellum/) for openings moves.
